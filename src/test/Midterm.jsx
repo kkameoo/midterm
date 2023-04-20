@@ -2,6 +2,8 @@ import React from "react";
 import useFruit from "./Midtermre";
 
 function Midterm(props) {
+    
+
     return (
         <div style={{ padding: 16}}>
             <p>어떤 과일을 좋아하나요?</p> <br></br>
